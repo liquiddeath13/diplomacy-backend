@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KbU0UyHgD2MvZnN/IJK0R1GCZ/wsKdzKjGsA0ABFIIZZ4geblvJeMANovlMdGJdx42Res5VT/+j5oWzX20IZzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xkaya\\source\\repos\\diplomacy-webapi\\diplomacy-webapi\\diplomacy-webapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xkaya\\.nuget\\packages\\markdig\\0.21.1\\markdig.0.21.1.nupkg.sha512"
+  ],
+  "logs": []
+}

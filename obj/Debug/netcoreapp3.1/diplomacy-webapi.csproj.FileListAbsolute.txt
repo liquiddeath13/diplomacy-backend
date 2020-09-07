@@ -1,0 +1,10 @@
+C:\Users\xkaya\source\repos\diplomacy-webapi\diplomacy-webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\xkaya\source\repos\diplomacy-webapi\diplomacy-webapi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\xkaya\source\repos\diplomacy-webapi\diplomacy-webapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\xkaya\source\repos\diplomacy-webapi\diplomacy-webapi\bin\Debug\netcoreapp3.1\diplomacy-webapi.exe
+C:\Users\xkaya\source\repos\diplomacy-webapi\diplomacy-webapi\obj\Debug\netcoreapp3.1\diplomacy-webapi.csprojAssemblyReference.cache
+C:\Users\xkaya\source\repos\diplomacy-webapi\diplomacy-webapi\obj\Debug\netcoreapp3.1\diplomacy-webapi.AssemblyInfoInputs.cache
+C:\Users\xkaya\source\repos\diplomacy-webapi\diplomacy-webapi\obj\Debug\netcoreapp3.1\diplomacy-webapi.AssemblyInfo.cs
+C:\Users\xkaya\source\repos\diplomacy-webapi\diplomacy-webapi\obj\Debug\netcoreapp3.1\diplomacy-webapi.RazorTargetAssemblyInfo.cache
+C:\Users\xkaya\source\repos\diplomacy-webapi\diplomacy-webapi\obj\Debug\netcoreapp3.1\staticwebassets\diplomacy-webapi.StaticWebAssets.Manifest.cache
+C:\Users\xkaya\source\repos\diplomacy-webapi\diplomacy-webapi\obj\Debug\netcoreapp3.1\staticwebassets\diplomacy-webapi.StaticWebAssets.xml
